@@ -1,3 +1,1 @@
 # hello-world
-
-How you doing, I'm roboto 3000 and I would like to talk about...
